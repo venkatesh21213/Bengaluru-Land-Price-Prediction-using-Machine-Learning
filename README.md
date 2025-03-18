@@ -21,3 +21,7 @@ This project predicts land prices in Bengaluru, India, using **location** and **
 - **Data Visualization**: Plotly, Seaborn
 - **Tools**: Jupyter Notebook, Google Colab
 
+## 🙌 Acknowledgments
+- **Dataset**: Bengaluru House Price Data (Kaggle)
+
+*src - https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data*
